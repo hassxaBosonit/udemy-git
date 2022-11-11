@@ -1,1 +1,2 @@
-Esto es una integral.
+Esto es una integral modificada.
+Esto será un conflicto.
