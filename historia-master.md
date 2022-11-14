@@ -1,3 +1,7 @@
 # Historia de la rama máster
 
 Este curso ya ha empezado y acabará pronto.
+
+# Inicios de la rama
+
+La rama comenzó llamándose máster
