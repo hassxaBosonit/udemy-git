@@ -1,6 +1,6 @@
 # Historia de la rama máster
 
-Este curso ya ha empezado y acabará pronto.
+Este curso se ha realizado en los meses de verano.
 
 # Inicios de la rama
 
